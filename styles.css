@@ -175,5 +175,7 @@ a{
 }
 .contact-detailstwo{
   text-align: center;
+}
+.contact-detailstwo p{
   display: inline;
 }
