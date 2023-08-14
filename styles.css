@@ -170,3 +170,6 @@ body {
   text-align: center;
   color: #666666;
 }
+a{
+  text-decoration: none;
+}
