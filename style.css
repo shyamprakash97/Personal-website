@@ -1,0 +1,47 @@
+body{
+   background-color: azure; 
+}
+
+#profile-wrapper{
+    text-align: center;
+}
+
+#profile-pic{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    border: 2px solid aqua;
+}
+#testgraph{
+    text-align: justify;
+}
+
+ul{
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+
+.sociallinks ul,li{
+    list-style-type: none;
+    display: inline-block;
+}
+
+.social{
+    width: 20px;
+    height: 20px;
+    margin-right: 10px;
+}
+
+.socials{
+    width: 40px;
+    height: 20px;
+}
+#space{
+    padding-left: 35px;
+}
+h4{
+    padding-top: 7px;
+}
